@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1620656440 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\affichagetxt.cpp
+	"affichageTxt.h"
+	"Jeu.h"
+	<string>
+	<iostream>
+	<chrono>
+	<thread>
+
+1620642174 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\affichagetxt.h
+	"Case.h"
+	"Jeu.h"
+	"Plateau.h"
+	"Carte.h"
+
+1620643271 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\case.h
+	<string>
+	<iostream>
+
+1620643768 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\jeu.h
+	"Joueur.h"
+	"Plateau.h"
+	"Carte.h"
+	"JeuDeCarte.h"
+
+1620643548 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\joueur.h
+	<string>
+	<vector>
+
+1620578333 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\plateau.h
+	"Case.h"
+
+1620642968 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\carte.h
+	"Joueur.h"
+	"Case.h"
+	<string>
+
+1620644272 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\jeudecarte.h
+	"Carte.h"
+
+1620653623 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\carte.cpp
+	"carte.h"
+	<string>
+
+1620654096 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\case.cpp
+	"Case.h"
+	"Joueur.h"
+
+1620655502 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\jeu.cpp
+	"Jeu.h"
+	<ctime>
+
+1620656583 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\jeudecarte.cpp
+	"JeuDeCarte.h"
+	"Plateau.h"
+	<ctime>
+
+1620654645 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\joueur.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+	"Joueur.h"
+	"Case.h"
+
+1620639894 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\main.cpp
+	<iostream>
+	"affichageTxt.h"
+
+1620653972 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\plateau.cpp
+	"Plateau.h"
+
