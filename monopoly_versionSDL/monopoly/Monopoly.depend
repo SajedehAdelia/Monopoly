@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1617078054 source:/home/roua/Documents/monopoly/monopoly/Carte.cpp
+
+1617074756 source:/home/roua/Documents/monopoly/monopoly/Case.cpp
+	"Case.h"
+	"Joueur.h"
+
+1617074756 /home/roua/Documents/monopoly/monopoly/Case.h
+	<string>
+	<iostream>
+
+1617074756 /home/roua/Documents/monopoly/monopoly/Joueur.h
+	<string>
+	<cstring>
+	<vector>
+
+1617091252 source:/home/roua/Documents/monopoly/monopoly/Jeu.cpp
+	<ctime>
+	"Jeu.h"
+
+1617074756 /home/roua/Documents/monopoly/monopoly/Jeu.h
+	"Joueur.h"
+	"Plateau.h"
+
+1617074756 /home/roua/Documents/monopoly/monopoly/Plateau.h
+	"Case.h"
+
+1617074756 source:/home/roua/Documents/monopoly/monopoly/Joueur.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+	"Joueur.h"
+	"Case.h"
+
+1617091499 source:/home/roua/Documents/monopoly/monopoly/Plateau.cpp
+	"Plateau.h"
+
+1619518452 source:/home/roua/Documents/monopoly/monopoly/main.cpp
+	<ctime>
+	"sdl2jeu.h"
+
+1619490056 /home/roua/Documents/monopoly/monopoly/sdlJeu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1619493373 source:/home/roua/Documents/monopoly/monopoly/sdlJeu.cpp
+	<cassert>
+	<time.h>
+	"sdlJeu.h"
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1620621214 source:/home/roua/Documents/monopoly/monopoly/sdl2jeu.cpp
+	"sdl2jeu.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<ctime>
+	<SDL2/SDL_mixer.h>
+
+1620619209 /home/roua/Documents/monopoly/monopoly/sdl2jeu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"sdl_case.h"
+	<SDL2/SDL_mixer.h>
+
+1620549701 source:/home/roua/Documents/monopoly/monopoly/sdl_case.cpp
+	"sdl_case.h"
+
+1620329521 /home/roua/Documents/monopoly/monopoly/sdl_case.h
+	<string>
+
+1617078054 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/Carte.cpp
+
+1617074756 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/Case.cpp
+	"Case.h"
+	"Joueur.h"
+
+1617074756 /home/roua/Downloads/monopoly_versionSDL/monopoly/Case.h
+	<string>
+	<iostream>
+
+1617074756 /home/roua/Downloads/monopoly_versionSDL/monopoly/Joueur.h
+	<string>
+	<cstring>
+	<vector>
+
+1617091252 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/Jeu.cpp
+	<ctime>
+	"Jeu.h"
+
+1617074756 /home/roua/Downloads/monopoly_versionSDL/monopoly/Jeu.h
+	"Joueur.h"
+	"Plateau.h"
+
+1617074756 /home/roua/Downloads/monopoly_versionSDL/monopoly/Plateau.h
+	"Case.h"
+
+1617074756 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/Joueur.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+	"Joueur.h"
+	"Case.h"
+
+1619518452 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/main.cpp
+	<ctime>
+	"sdl2jeu.h"
+
+1620619209 /home/roua/Downloads/monopoly_versionSDL/monopoly/sdl2jeu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"sdl_case.h"
+	<SDL2/SDL_mixer.h>
+
+1620329521 /home/roua/Downloads/monopoly_versionSDL/monopoly/sdl_case.h
+	<string>
+
+1617091499 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/Plateau.cpp
+	"Plateau.h"
+
+1620630014 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/sdl2jeu.cpp
+	"sdl2jeu.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<ctime>
+	<SDL2/SDL_mixer.h>
+
+1620549701 source:/home/roua/Downloads/monopoly_versionSDL/monopoly/sdl_case.cpp
+	"sdl_case.h"
+
+1617078054 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\carte.cpp
+
+1617074756 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\case.cpp
+	"Case.h"
+	"Joueur.h"
+
+1617074756 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\case.h
+	<string>
+	<iostream>
+
+1617074756 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\joueur.h
+	<string>
+	<cstring>
+	<vector>
+
+1617091252 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\jeu.cpp
+	<ctime>
+	"Jeu.h"
+
+1617074756 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\jeu.h
+	"Joueur.h"
+	"Plateau.h"
+
+1617074756 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\plateau.h
+	"Case.h"
+
+1617074756 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\joueur.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+	"Joueur.h"
+	"Case.h"
+
+1619518452 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\main.cpp
+	<ctime>
+	"sdl2jeu.h"
+
+1620619209 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\sdl2jeu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"sdl_case.h"
+	<SDL2/SDL_mixer.h>
+
+1620329521 d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\sdl_case.h
+	<string>
+
+1617091499 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\plateau.cpp
+	"Plateau.h"
+
+1620630214 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\sdl2jeu.cpp
+	"sdl2jeu.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<ctime>
+	<SDL2/SDL_mixer.h>
+
+1620549701 source:d:\cours fac\l2\semestre 2\conception et développement d'application\monopoly\code\rendu\src\monopoly_versionsdl\monopoly\sdl_case.cpp
+	"sdl_case.h"
+
